@@ -1,5 +1,14 @@
 # Luke Code
 
+
+
 Site de cursos profissinalizantes na área de tecnologia com front-End feito em React Js.
-Desenvolvido para estudos para o curso da Recode Pro. 
+Desenvolvido para estudos para o curso da Recode Pro.
+
+<h4 align="center"> 
+	🚧 Em construção...  🚧
+</h4>
+
+
+ 
 
